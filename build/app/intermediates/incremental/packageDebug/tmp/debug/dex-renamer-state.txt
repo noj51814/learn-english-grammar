@@ -1,0 +1,4 @@
+#Fri Jan 06 20:12:41 PST 2023
+base.0=/Users/jonathancenas/AndroidStudioProjects/learn_english_grammar/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
